@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Game List</string>
+    <string name="release_date">Release date</string>
+    <string name="judul">ini adalah judul game yang akan di tampilkan</string>
+    <string name="rating">rating</string>
+    <string name="nama_game">Nama Game</string>
+    <string name="detail_game">detail Game</string>
+    <string name="release_detail">tanggal rilis</string>
+    <string name="developer_detail">Developer</string>
+</resources>
